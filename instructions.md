@@ -19,3 +19,6 @@ Consectetur fugiat ea in tempor sunt magna cillum cillum. Eu ut sunt adipisicing
 this is **bold**
 this is *italics*
 This command will install apache webserver: `sudo apt install apache2 -y` 
+
+This is hello world in bash:
+` #!/bin/bash; echo "hello world"`
