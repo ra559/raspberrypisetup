@@ -22,3 +22,6 @@ This command will install apache webserver: `sudo apt install apache2 -y`
 
 This is hello world in bash:
 ` #!/bin/bash; echo "hello world"`
+
+This is a terminal
+![Terminal](terminal.png)
